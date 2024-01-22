@@ -10,9 +10,9 @@ Below is the list of weekly visualizations I've created for the Makeover Monday 
 
 ### Week 1: Britons New_Years_Resolutions 2024
 
-- **Date:** January 15, 2024
+- **Date:** January 23, 2024
 - **Dataset:** [https://data.world/makeovermonday/britions-newyearsresolutions-2024](https://data.world/makeovermonday/britions-newyearsresolutions-2024)
-- **Visualization:** 
+- **Visualization:**  
 - **Thoughts:**
 
 
