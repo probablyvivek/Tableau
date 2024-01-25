@@ -10,22 +10,30 @@ Below is the list of weekly visualizations I've created for the Makeover Monday 
 
 ### Week 1: Britons New_Years_Resolutions 2024
 
-- **Date:** January 23, 2024
+- **Date:** January 25, 2024
 - **Read About the Data:** https://insideoutmastery.com/new-years-resolution-statistics/
 - **Dataset:** [https://data.world/makeovermonday/britions-newyearsresolutions-2024](https://data.world/makeovermonday/britions-newyearsresolutions-2024)
-  ![**Visualization:**](https://github.com/probablyvivek/Tableau/blob/main/MOM2024/2024%20Briton's%20NY%20Resolutions.png?raw=true)
-- **Thoughts:**
+  ![**Visualization:**](https://github.com/probablyvivek/Tableau/blob/main/MOM2024/Week1%20-%20NY%20Resolutions.png?raw=true)
+- **Learnings:**
  Learned how to color code the top 3 ranks. Used Figma to create the layout and then used Tableau to create the visualization.
 
 ### Week 2: World's Highest Paid Athletes 2023
 
-- **Date:** January 30, 2024
+- **Date:** January 25, 2024
 - **Read About the Data:** https://www.forbes.com/lists/athletes/?sh=1896b1685b7e
 - **Dataset:** [https://data.world/makeovermonday/the-worlds-highest-paid-athletes-in-2023](https://data.world/makeovermonday/the-worlds-highest-paid-athletes-in-2023)
-![**Visualization:**](
+![**Visualization:**](https://github.com/probablyvivek/Tableau/blob/main/MOM2024/Week%202%20-%20Forbes%202023.png?raw=true)
 
-- **Thoughts:**
- 
+- **Learnings:**
+ Learned how to create a slope chart. 
+
+
+### Week 3:
+
+- **Date:** 
+- **Read About the Data:**
+- **Dataset:** 
+
 
 
 ## Tools and Technologies Used
