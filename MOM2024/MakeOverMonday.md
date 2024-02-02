@@ -32,7 +32,7 @@ Below is the list of weekly visualizations I've created for the Makeover Monday 
 
 ### Week 3:
 
-- **Date:**  February 2, 2024
+- **Date:**  February 3, 2024
 - **Read About the Data:**https://www.finder.com/uk/cheapest-countries-to-study-europe
 - **Dataset:** [https://data.world/makeovermonday/2024w5-the-cheapest-countries-to-study-in-europe-in-2023](https://data.world/makeovermonday/2024w5-the-cheapest-countries-to-study-in-europe-in-2023)
 - 
